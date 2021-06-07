@@ -3,7 +3,7 @@
 @brief This is the final project I made for my Master's degree class of Image Processing. 
     You can see it in action in the following link: https://youtu.be/B4WH9g6KwDA
 
-@author AlXavier Nahim Abugannam Monteagudo
+@author Xavier Nahim Abugannam Monteagudo
 @date 2021-06-07
 @univeristy Universidad Autónoma de Querétaro
 @description:   
