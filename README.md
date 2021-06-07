@@ -1,7 +1,7 @@
 # Vehicle_detection
 This is the final project I made for my Master's degree class of Image Processing. You can see it in action in the link below.
 
-youtu.be/e8ggekp1slc
+https://youtu.be/B4WH9g6KwDA
 
 ## Prerequisites
 Python 3.7 (NOTE: Check numpy and opencv compatibility for other Python versions)
